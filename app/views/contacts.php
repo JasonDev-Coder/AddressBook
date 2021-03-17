@@ -42,13 +42,13 @@
                     <input class="form-control form-control-sm" id="personLastName" type="text" placeholder="Enter Name" name="person_Lname" required><br>
 
                     <label><b>Phone Number</b></label>
-                    <input class="form-control form-control-sm" id="personNum" type="tel" placeholder="Enter Phone Number" name="person_phoneNumber" pattern="\+[0-9]{3}-[0-9]{8}" required><br>
+                    <input class="form-control form-control-sm" id="personNum" type="tel" placeholder="+xxx-xxxxxxxx" name="person_phoneNumber" pattern="\+[0-9]{3}-[0-9]{8}" required><br>
 
                     <label><b>Date of Birth</b></label>
                     <input class="form-control form-control-sm" id="personDOB" type="date" placeholder="Enter Birthdate" name="person_dob" required><br>
 
                     <label><b>Email</b></label>
-                    <input class="form-control form-control-sm" id="personEmail" type="email" placeholder="+xxx-xxxxxxxx" name="person_email" required><br>
+                    <input class="form-control form-control-sm" id="personEmail" type="email" placeholder="Enter email" name="person_email" required><br>
 
 
                     <label><b>Address</b></label>
